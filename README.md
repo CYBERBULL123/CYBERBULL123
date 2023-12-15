@@ -15,7 +15,7 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 ## 🌐 Connect with Me
 
 - **LinkedIn:** [Aditya Pandey LinkedIn](https://www.linkedin.com/in/aditya-pandey-896109224/)
-- **Website:** [Explore My Projects](https://aadi-web-1.onrender.com/#contact)
+- **Website:** [Explore My Projects](https://aadi-web-1.onrender.com)
 - **Instagram:** [Follow My Journey](https://www.instagram.com/igx__aadi/)
 - **Medium:** [Read My Insights](https://cyberbull.medium.com/)
 
