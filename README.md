@@ -27,3 +27,5 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show_icons=true&theme=radical)
+
+[![Aditya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aditya)
