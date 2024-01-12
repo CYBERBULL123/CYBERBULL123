@@ -33,4 +33,4 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CYBERBULL123&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
-[![Aditya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aditya)
+[![Aditya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aditya)](https://github.com/CYBERBULL123)
