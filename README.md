@@ -22,3 +22,6 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 ## 🚀 Let's Collaborate!
 
 I'm always open to collaborations, discussions, and sharing knowledge. Connect with me on LinkedIn, explore my projects on my website, or dive into my cybersecurity insights on Medium. Together, let's make the digital world safer and more exciting! 🌟
+
+
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123)](https://github.com/anuraghazra/github-readme-stats)
