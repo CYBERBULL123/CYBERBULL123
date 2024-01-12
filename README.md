@@ -29,7 +29,7 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 <a href="https://github.com/CYBERBULL123">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/CYBERBULL12">
+<a href="https://github.com/CYBERBULL123">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CYBERBULL123&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 
