@@ -25,3 +25,9 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123)](https://github.com/anuraghazra/github-readme-stats)
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show_icons=true)
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show_icons=true&theme=radical)
