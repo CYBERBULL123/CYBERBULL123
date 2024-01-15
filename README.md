@@ -34,3 +34,6 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 </a>
 
 [![Aditya's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CyberBull)](https://github.com/CYBERBULL123)
+
+
+<figure><embed src="https://wakatime.com/share/@CyberBull/bcc65f30-ee57-432d-8d6f-8cf8c25355e6.svg"></embed></figure>
