@@ -33,7 +33,21 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+[![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://aka.ms/terminal)
+[![LAMP Stack](https://img.shields.io/badge/LAMP-FFDB58?style=for-the-badge&logo=apache&logoColor=white)](https://www.linux.org/)
+[![Django Stack](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![AI/ML](https://img.shields.io/badge/AI%2FML-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/products/ai)
+[![GAN](https://img.shields.io/badge/GAN-000000?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-002D55?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4E7E?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
 
+<img src="https://img.shields.io/badge/Cybersecurity-2E3B4E?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity">
+
+<img src="https://img.shields.io/badge/Ethical%20Hacking-4EAA25?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacking">
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&icons=true&theme=radical)
 
