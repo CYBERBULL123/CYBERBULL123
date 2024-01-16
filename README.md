@@ -44,10 +44,11 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 [![GAN](https://img.shields.io/badge/GAN-000000?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/)
 [![LangChain](https://img.shields.io/badge/LangChain-002D55?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4E7E?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
+[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
 
 <img src="https://img.shields.io/badge/Cybersecurity-2E3B4E?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity">
-
 <img src="https://img.shields.io/badge/Ethical%20Hacking-4EAA25?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacking">
+<img src="https://img.shields.io/badge/Penetration%20Testing-2E3B4E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Penetration Testing">
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&icons=true&theme=radical)
 
