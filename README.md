@@ -26,6 +26,8 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 <!-- Add a link to the FontAwesome stylesheet in the head of your HTML -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-...">
 
+<script src="https://kit.fontawesome.com/9d01618f02.js" crossorigin="anonymous"></script>
+
 <!-- Use the copied HTML code within your readme -->
 <i class="fab-brands fa-python"></i>
 <i class="fa-brands fa-html5"></i>
