@@ -23,6 +23,21 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 
 I'm always open to collaborations, discussions, and sharing knowledge. Connect with me on LinkedIn, explore my projects on my website, or dive into my cybersecurity insights on Medium. Together, let's make the digital world safer and more exciting! 🌟
 
+<!-- Add a link to the FontAwesome stylesheet in the head of your HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-...">
+
+<!-- Use the copied HTML code within your readme -->
+<i class="fab-brands fa-python"></i>
+<i class="fa-brands fa-html5"></i>
+<i class="fa-brands fa-css3"></i>
+<i class="fa-brands fa-js"></i>
+<i class="fa-brands fa-node"></i>
+<i class="fa-brands fa-linux"></i>
+<i class="fa-brands fa-ubuntu"></i>
+<i class="fa-brands fa-aws"></i>
+<i class="fa-brands fa-gcp"></i>
+<i class="fa-brands fa-azure"></i>
+
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&icons=true&theme=radical)
 
 
