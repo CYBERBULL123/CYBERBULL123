@@ -1,7 +1,10 @@
 # Welcome to My Cybersecurity World! 👨‍💻🌐
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=Profile%20views&color=0e75b6&style=flat" alt="CYBERBULL123" />
 
-![Computer Error](https://giphy.com/gifs/computer-error-screen-65n8RPEa3r65q)
+ <div align="center">
+  <img height="200" , width="800" src="https://media.giphy.com/media/qdf1QyvxipVh6/giphy.gif"  />
+</div>
+</div>
 
 <br></br>
 
