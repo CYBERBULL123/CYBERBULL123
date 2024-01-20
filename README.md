@@ -1,6 +1,12 @@
 # Welcome to My Cybersecurity World! 👨‍💻🌐
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=Profile%20views&color=0e75b6&style=flat" alt="amishasharma12002" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=Profile%20views&color=0e75b6&style=flat" alt="CYBERBULL123" />
 
+ <div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZyeTQyZzNxNmlhMHE5ZG9qNjlyYWF6YjhqbXEzY2JrN3l0NTJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif"  />
+</div>
+</div>
+
+<div style="width:100%;height:0;padding-bottom:68%;position:relative;"><iframe src="https://giphy.com/embed/65n8RPEa3r65q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-error-screen-65n8RPEa3r65q">via GIPHY</a></p>
 
 
 Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple teamer, and ethical hacker on a mission to fortify digital landscapes. Beyond securing networks, I'm a creative soul delving into game development using Godot, exploring the realms of AI, and sharing my insights on Medium.
