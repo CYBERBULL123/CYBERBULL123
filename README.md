@@ -6,6 +6,7 @@
 </div>
 </div>
 
+<br></br>
 
 Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple teamer, and ethical hacker on a mission to fortify digital landscapes. Beyond securing networks, I'm a creative soul delving into game development using Godot, exploring the realms of AI, and sharing my insights on Medium.
 
