@@ -2,12 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=Profile%20views&color=0e75b6&style=flat" alt="CYBERBULL123" />
 
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZyeTQyZzNxNmlhMHE5ZG9qNjlyYWF6YjhqbXEzY2JrN3l0NTJ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kz6cm1kKle2MYkHtJF/giphy.gif"  />
-</div>
-</div>
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" />
+  <img height="200", width="500" src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" />
 </div>
 </div>
 
