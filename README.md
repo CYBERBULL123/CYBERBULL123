@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=Profile%20views&color=0e75b6&style=flat" alt="CYBERBULL123" />
 
  <div align="center">
-  <img height="400" , width="800" src="https://media.giphy.com/media/qdf1QyvxipVh6/giphy.gif"  />
+  <img height="300" , width="800" src="https://media.giphy.com/media/qdf1QyvxipVh6/giphy.gif"  />
 </div>
 </div>
 
