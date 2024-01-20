@@ -1,10 +1,7 @@
 # Welcome to My Cybersecurity World! 👨‍💻🌐
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=Profile%20views&color=0e75b6&style=flat" alt="CYBERBULL123" />
 
-<div align="center">
-  <img height="400", width="800" src="<iframe src="https://media.giphy.com/media/65n8RPEa3r65q/giphy.gif" />
-</div>
-</div>
+![Computer Error](https://giphy.com/gifs/computer-error-screen-65n8RPEa3r65q)
 
 <br></br>
 
