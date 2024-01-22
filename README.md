@@ -60,6 +60,8 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 <img src="https://img.shields.io/badge/Ethical%20Hacking-4EAA25?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacking">
 <img src="https://img.shields.io/badge/Penetration%20Testing-2E3B4E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Penetration Testing">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=CYBERBULL123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CYBERBULL123&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&icons=true&theme=radical)
 
 
