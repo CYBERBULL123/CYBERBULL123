@@ -74,6 +74,6 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 </a>
 
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=CYBERBULL123 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CYBERBULL123&theme=neon-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CYBERBULL123&theme=neon-dark)](https://git.io/streak-stats)
 
 # Be Productive 💭 🧑‍💻
