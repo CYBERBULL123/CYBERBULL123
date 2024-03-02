@@ -27,6 +27,14 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 - **Instagram:** [Follow My Journey](https://www.instagram.com/igx__aadi/)
 - **Medium:** [Read My Insights](https://cyberbull.medium.com/)
 
+## 📝 Projects
+
+- **NetDc0dE 🌐:** Elevate Your Networking Game 🌐🚀 Discover advanced networking with NetkTool and PortScan . [CLICK HERE](https://github.com/CYBERBULL123/NetDc0dE)
+ 
+- **OxSecure Intelligence 🧠:** 🔒 Welcome to G-A.I Cybersecurity Project! 🛡️ Where tech meets vigilance! Our blend of Language Models, Gemini, & OpenAI unlocks cybersecurity mysteries. With LangChain's magic, Streamlit's charm, & Google AI 
+                                    Python's robustness, we simplify complexity into cybernetic symphonies! 🚀 . [CLICK HERE](https://oxsecure-g-a-i.onrender.com)
+  
+
 ## 🚀 Let's Collaborate!
 
 I'm always open to collaborations, discussions, and sharing knowledge. Connect with me on LinkedIn, explore my projects on my website, or dive into my cybersecurity insights on Medium. Together, let's make the digital world safer and more exciting! 🌟
