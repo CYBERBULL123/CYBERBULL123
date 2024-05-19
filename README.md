@@ -31,7 +31,7 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 
 - **[NetDc0dE](https://github.com/CYBERBULL123/NetDc0dE) 🌐:** Elevate Your Networking Game 🌐🚀 Discover advanced networking with NetkTool and PortScan .
  
-- **[OxSecure Intelligence](https://oxsecure-g-a-i.onrender.com) 🧠:** 🔒 Welcome to G-A.I Cybersecurity Project! 🛡️ Where tech meets vigilance! Our blend of Language Models, Gemini, & OpenAI unlocks cybersecurity mysteries. With LangChain's magic, Streamlit's charm, & Google AI Python's robustness, we simplify complexity into cybernetic symphonies! 🚀 .
+- **[OxSecure Intelligence](https://github.com/CYBERBULL123/G-A.I-Cybersecurity) 🧠:** 🔒 Welcome to G-A.I Cybersecurity Project! 🛡️ Where tech meets vigilance! Our blend of Language Models, Gemini, & OpenAI unlocks cybersecurity mysteries. With LangChain's magic, Streamlit's charm, & Google AI Python's robustness, we simplify complexity into cybernetic symphonies! 🚀 .
 
   
 - **[Zombies Apocallypse](https://github.com/CYBERBULL123/Zombies-Apocalypse.git) 🧟‍♀️:** Dawn of the Apocalypse 🌅🔥Embark on a journey where the dawn of creativity meets the flames of passion. "Zombies Apocalypse 3D" is not just a game; it's a sunrise of emotions, where every detail tells a story of determination and resilience .
