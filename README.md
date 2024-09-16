@@ -36,8 +36,6 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 
 **[OxSecure Intelligence Updated](https://oxsecure-aadi.streamlit.app/)**
 
-**[OxSecure Intelligence](https://oxsecure-g-a-i.onrender.com/)**
-
 **[OxSecure RAG](https://oxsecure-rag.streamlit.app/)**
 
   
