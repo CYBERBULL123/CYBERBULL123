@@ -32,7 +32,7 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 
 - **[NetDc0dE](https://github.com/CYBERBULL123/NetDc0dE) 🌐:** Elevate Your Networking Game 🌐🚀 Discover advanced networking with NetkTool and PortScan .
  
-- **[OxSecure Intelligence](https://github.com/CYBERBULL123/G-A.I-Cybersecurity) 🧠:** 🔒 Welcome to G-A.I Cybersecurity Project! 🛡️ Where tech meets vigilance! Our blend of Language Models, Gemini, & OpenAI unlocks cybersecurity mysteries. With LangChain's magic, Streamlit's charm, & Google AI Python's robustness, we simplify complexity into cybernetic symphonies! 🚀 .
+- **[OxSecure Intelligence](https://github.com/CYBERBULL123/G-A.I-Cybersecurity) 🧠:** 🔒 Welcome to G-A.I Cybersecurity Project! 🛡️ Where tech meets vigilance! It blend of Language Models, Gemini, & OpenAI unlocks cybersecurity mysteries. With LangChain's magic, Streamlit's charm, & Google AI Python's robustness, It simplify complexity into cybernetic symphonies! 🚀 .
 
 **[OxSecure Intelligence Updated](https://oxsecure-aadi.streamlit.app/)**
 
