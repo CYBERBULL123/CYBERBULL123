@@ -27,6 +27,7 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 - **Instagram:** [Follow My Journey](https://www.instagram.com/igx__aadi/)
 - **Medium:** [Read My Insights](https://cyberbull.medium.com/)
 
+
 ## 📝 Projects
 
 
@@ -74,6 +75,13 @@ I'm always open to collaborations, discussions, and sharing knowledge. Connect w
 <img src="https://img.shields.io/badge/Cybersecurity-2E3B4E?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity">
 <img src="https://img.shields.io/badge/Ethical%20Hacking-4EAA25?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacking">
 <img src="https://img.shields.io/badge/Penetration%20Testing-2E3B4E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Penetration Testing">
+
+[![wakatime](https://wakatime.com/badge/github/CYBERBULL123/G-A.I-Cybersecurity.svg)](https://wakatime.com/badge/github/CYBERBULL123/G-A.I-Cybersecurity)
+
+![Wakatime Stats](https://wakatime.com/share/@CyberBull/52661612-6a76-4bf9-b857-5bf03b725b45.svg)
+![Wakatime Stats](https://wakatime.com/share/@CyberBull/8654cbbb-48a5-495d-81ac-ffebec1bf84d.svg)
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CYBERBULL123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
