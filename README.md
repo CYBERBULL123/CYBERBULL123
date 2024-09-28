@@ -31,6 +31,7 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 ## 📝 Projects
 
 [![OxSecure Suite](https://img.shields.io/badge/OxSecure%20Suite-Streamlit%20App-brightgreen)](https://oxsuite.streamlit.app/?embed_options=dark_theme,show_toolbar,show_colored_line,show_padding,show_footer)
+[![wakatime](https://wakatime.com/badge/user/018cfd06-2685-4d60-acfb-c9cc392c13d8/project/3efb0cf3-d9a5-4bf0-900f-55b40bc140f7.svg)](https://wakatime.com/badge/user/018cfd06-2685-4d60-acfb-c9cc392c13d8/project/3efb0cf3-d9a5-4bf0-900f-55b40bc140f7)
 
 
 
