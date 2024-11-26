@@ -47,39 +47,44 @@ Hey there! I'm Aditya Pandey, a passionate cybersecurity researcher, purple team
 
 I'm always open to collaborations, discussions, and sharing knowledge. Connect with me on LinkedIn, explore my projects on my website, or dive into my cybersecurity insights on Medium. Together, let's make the digital world safer and more exciting! 🌟
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](link-to-your-repository)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](link-to-your-github-profile)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
-[![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://aka.ms/terminal)
-[![LAMP Stack](https://img.shields.io/badge/LAMP-FFDB58?style=for-the-badge&logo=apache&logoColor=white)](https://www.linux.org/)
-[![Django Stack](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![AI/ML](https://img.shields.io/badge/AI%2FML-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/products/ai)
-[![GAN](https://img.shields.io/badge/GAN-000000?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/)
-[![LangChain](https://img.shields.io/badge/LangChain-002D55?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4E7E?style=for-the-badge&logo=streamlit&logoColor=white)](https://www.streamlit.io/)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org/)
+# Skills and Technologies
 
-<img src="https://img.shields.io/badge/Cybersecurity-2E3B4E?style=for-the-badge&logo=security&logoColor=white" alt="Cybersecurity">
-<img src="https://img.shields.io/badge/Ethical%20Hacking-4EAA25?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacking">
-<img src="https://img.shields.io/badge/Penetration%20Testing-2E3B4E?style=for-the-badge&logo=metasploit&logoColor=white" alt="Penetration Testing">
+## **Section 1: Core Technologies**
 
-[![wakatime](https://wakatime.com/badge/github/CYBERBULL123/G-A.I-Cybersecurity.svg)](https://wakatime.com/badge/github/CYBERBULL123/G-A.I-Cybersecurity)
+| **Programming Languages** | **Cloud & DevOps** | **Frameworks & Libraries** | **Version Control & Tools** |
+|----------------------------|--------------------|----------------------------|-----------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4E7E?style=for-the-badge&logo=streamlit&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
 
-![Wakatime Stats](https://wakatime.com/share/@CyberBull/52661612-6a76-4bf9-b857-5bf03b725b45.svg)
-![Wakatime Stats](https://wakatime.com/share/@CyberBull/8654cbbb-48a5-495d-81ac-ffebec1bf84d.svg)
+## **Section 2: Specialized Skills**
+
+| **AI/GenAI & Cybersecurity** | **Miscellaneous & Tools** | **Cybersecurity & Ethical Hacking** |
+|------------------------------|---------------------------|--------------------------------------|
+| ![AI/ML](https://img.shields.io/badge/AI%2FML-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3B4E?style=for-the-badge&logo=security&logoColor=white) |
+| ![LangChain](https://img.shields.io/badge/LangChain-002D55?style=for-the-badge&logo=java&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-4EAA25?style=for-the-badge&logo=hackaday&logoColor=white) |
+| ![Gemini](https://img.shields.io/badge/Gemini-0033A0?style=for-the-badge&logo=google&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-2E3B4E?style=for-the-badge&logo=metasploit&logoColor=white) |
+| ![GAN](https://img.shields.io/badge/GAN-000000?style=for-the-badge&logo=deezer&logoColor=white) | ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) |                                      |
+
+
+
+
+# Wakatime Stats
+
+## Overall Wakatime Badge
+[![wakatime](https://wakatime.com/badge/user/018cfd06-2685-4d60-acfb-c9cc392c13d8.svg)](https://wakatime.com/@018cfd06-2685-4d60-acfb-c9cc392c13d8)
+
+## Wakatime Stats Overview
+
+| **Language**   | **Code Time** | **Last 7 Days** | **Total Time** |
+|----------------|---------------|-----------------|----------------|
+| ![Wakatime Stats](https://wakatime.com/share/@CyberBull/27f75abe-70e4-4c43-ad51-f9c3702fbeb9.svg) | ![Wakatime Stats](https://wakatime.com/share/@CyberBull/8654cbbb-48a5-495d-81ac-ffebec1bf84d.svg) | ![wakatime stats](https://wakatime.com/share/@CyberBull/e5291fff-f7b1-44b4-944e-d4c7d9bc674a.svg) | ![Wakatime Stats](https://wakatime.com/share/@CyberBull/27f75abe-70e4-4c43-ad51-f9c3702fbeb9.svg) |
+
+---
+
+You can also check out the detailed breakdown of my coding time on [Wakatime Profile](https://wakatime.com/@018cfd06-2685-4d60-acfb-c9cc392c13d8).
+
 
 
 
