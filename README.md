@@ -124,7 +124,7 @@ I'm always open to new opportunities for collaboration, learning, and sharing kn
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/CYBERBULL123/AtmaVeda">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=CYBERBULL123&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=CYBERBULL123&repo=AtmaVeda&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="AtmaVeda" />
         </a>
       </p>
     </td>
