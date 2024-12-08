@@ -10,7 +10,7 @@
 
 <br></br>
 
-Hey there! I'm **Aditya Pandey**, a passionate **cybersecurity researcher**, **purple teamer**, and **ethical hacker** on a mission to fortify digital landscapes. Beyond securing networks, I'm a creative soul delving into **game development** using **Godot**, exploring the realms of **AI**, and sharing my insights on **Medium**.
+Hey there! I'm **Aditya Pandey**, a passionate **cybersecurity researcher**, **Purple Teamer**, and **Ethical Hacker** on a mission to fortify digital landscapes. Beyond securing networks, I'm a creative soul delving into **Game Development** using **Godot**, exploring the realms of **AI**, ***LLM Automation*** , ***NLP*** , ***GAN*** and sharing my insights on **Medium**.
 
 ## 💼 Professional Highlights
 
