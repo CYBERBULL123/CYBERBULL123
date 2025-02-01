@@ -1,4 +1,5 @@
-# Welcome to My Cyber World! 👨‍💻🌐
+
+# Welcome ! Nice to see you ☺️
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=Profile%20views&color=0e75b6&style=flat" alt="CYBERBULL123" />
@@ -10,35 +11,80 @@
 
 <br></br>
 
-Hey there! I'm **Aditya Pandey**, a passionate **cybersecurity researcher**, **Purple Teamer**, and **Ethical Hacker** on a mission to fortify digital landscapes. Beyond securing networks, I'm a creative soul delving into **Game Development** using **Godot**, exploring the realms of **AI**, ***LLM Automation*** , ***NLP*** , ***GAN*** and sharing my insights on **Medium**.
-
-## 💼 Professional Highlights
-
-- **Cybersecurity Researcher:** Specializing in uncovering vulnerabilities, securing systems, and leading purple team operations to enhance cyber defenses.
-- **Game Developer:** Crafting immersive experiences with **Godot**, bringing my creative visions to life in the world of gaming.
-- **Ethical Hacker:** Identifying and mitigating security risks to ensure resilient and robust systems through ethical hacking practices.
-- **AI Enthusiast:** Exploring AI technologies to understand their vast potential and contribute to their application in cybersecurity and beyond.
-
-## 🌐 Connect with Me
-
-- **LinkedIn:** [Aditya Pandey LinkedIn](https://www.linkedin.com/in/aditya-pandey-896109224/)
-- **Website:** [Explore My Portfolio](https://aadi-web8.vercel.app/)
-- **Instagram:** [Follow My Journey](https://www.instagram.com/igx__aadi/)
-- **Medium:** [Read My Insights](https://cyberbull.medium.com/)
-
-## 📝 Featured Projects
-
-[![OxSecure Suite](https://img.shields.io/badge/OxSecure%20Suite-Streamlit%20App-brightgreen)](https://oxsuite.streamlit.app/?embed_options=dark_theme,show_toolbar,show_colored_line,show_padding,show_footer)  
-[![Wakatime](https://wakatime.com/badge/user/018cfd06-2685-4d60-acfb-c9cc392c13d8/project/3efb0cf3-d9a5-4bf0-900f-55b40bc140f7.svg)](https://wakatime.com/badge/user/018cfd06-2685-4d60-acfb-c9cc392c13d8/project/3efb0cf3-d9a5-4bf0-900f-55b40bc140f7)
-
-- **[NetDc0dE](https://github.com/CYBERBULL123/NetDc0dE)** 🌐: Elevate Your Networking Game. Explore advanced networking tools like **NetkTool** and **PortScan**.
-- **[OxSecure Intelligence](https://github.com/CYBERBULL123/OxWebsite)** 🧠: Unlock cybersecurity insights with **LangChain**, **Gemini**, **OpenAI**, and **Streamlit** to simplify complex security concepts.
-- **[Zombies Apocalypse](https://github.com/CYBERBULL123/Zombies-Apocalypse.git)** 🧟‍♀️: Dive into a thrilling 3D game experience that brings creativity to life.
-
-## 🚀 Let's Collaborate!
-I'm always open to new opportunities for collaboration, learning, and sharing knowledge. Connect with me on **LinkedIn**, explore my projects, or read my cybersecurity insights on **Medium**. Let’s work together to create a safer and more exciting digital world!
+Hey there! I'm **Aditya Pandey**, a passionate **Cybersecurity Researcher** and **Purple Teamer**. I specialize in securing systems, uncovering vulnerabilities, and enhancing cyber defenses. Beyond cybersecurity, I explore **Game Development** using **Godot** and delve into **AI**, **LLM Automation**, **NLP**, and **GANs**.  
 
 ---
+
+## 💼 **Professional Highlights**  
+- **Cybersecurity Researcher:** Specializing in vulnerability assessment, system hardening, and purple team operations.  
+- **Ethical Hacker:** Identifying and mitigating security risks to ensure robust systems.  
+- **Game Developer:** Crafting immersive 3D games with **Godot**.  
+- **AI Enthusiast:** Exploring AI applications in cybersecurity and beyond.  
+
+---
+
+## 🌐 **Connect with Me**  
+
+Let's connect and collaborate! Here's where you can find me:  
+
+<table>
+  <tr>
+    <td width="70%">
+      <table>
+        <tr>
+          <th>Platform</th>
+          <th>Link</th>
+          <th>Icon</th>
+        </tr>
+        <tr>
+          <td>LinkedIn</td>
+          <td><a href="https://www.linkedin.com/in/aditya-pandey-896109224/">Aditya Pandey</a></td>
+          <td><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24"></td>
+        </tr>
+        <tr>
+          <td>Website</td>
+          <td><a href="https://aadi-web8.vercel.app/">Portfolio</a></td>
+          <td><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="24"></td>
+        </tr>
+        <tr>
+          <td>Medium</td>
+          <td><a href="https://cyberbull.medium.com/">Cybersecurity Insights</a></td>
+          <td><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="24"></td>
+        </tr>
+        <tr>
+          <td>Instagram</td>
+          <td><a href="https://www.instagram.com/igx_aadi/">igx__aadi</a></td>
+          <td><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="24"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="60%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="200" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📝 **Featured Projects**  
+
+Here are some of my standout projects:  
+
+| Project Name               | Description                                                                 | Technologies Used             | Link                                                                 |
+|----------------------------|-----------------------------------------------------------------------------|-------------------------------|----------------------------------------------------------------------|
+| **OxSecure Suite**         | A cybersecurity tool for threat intelligence and automation.                | LangChain, Gemini, OpenAI     | [OxSecure Suite](https://oxsuite.streamlit.app/)                     |
+| **NetDc0dE**               | Advanced networking tools for security professionals.                       | Python, Networking            | [NetDc0dE](https://github.com/CYBERBULL123/NetDc0dE)                |
+| **Zombies Apocalypse**     | A thrilling 3D game developed using Godot.                                  | Godot, 3D Game Development    | [Zombies Apocalypse](https://github.com/CYBERBULL123/Zombies-Apocalypse) |
+
+---
+
+## 🚀 **Let's Collaborate!**  
+
+I'm always open to new opportunities for collaboration, learning, and sharing knowledge. Whether it's cybersecurity, game development, or AI, let's work together to create a safer and more exciting digital world!  
+
+Feel free to reach out via **LinkedIn** or explore my projects on **GitHub**. Let's connect and make an impact!  
+
+---  
 
 ## ⚡️ **Skills & Technologies**
 
@@ -64,24 +110,36 @@ I'm always open to new opportunities for collaboration, learning, and sharing kn
 
 ## 🏆 **Wakatime Stats**
 
-#### Profile [Wakaime](https://wakatime.com/@CyberBull)
+#### Profile: [Wakaime](https://wakatime.com/@CyberBull)
 
 ### **Wakatime Overview**
 ![Wakatime](https://wakatime.com/badge/user/018cfd06-2685-4d60-acfb-c9cc392c13d8.svg)
 
-## Wakatime Stats Overview
+### **Wakatime Stats Overview**
 
-<p align="center">
-  <img src="https://wakatime.com/share/@CyberBull/27f75abe-70e4-4c43-ad51-f9c3702fbeb9.svg" width="800" alt="Total Time" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://wakatime.com/share/@CyberBull/27f75abe-70e4-4c43-ad51-f9c3702fbeb9.svg" width="400" alt="Total Time" />
+      <br>
+      <strong>Last 7 Days</strong>
+    </td>
+    <td align="center">
+      <img src="https://wakatime.com/share/@CyberBull/8654cbbb-48a5-495d-81ac-ffebec1bf84d.svg" width="400" alt="Last 7 Days" />
+      <br>
+      <strong> Langauage Used</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://wakatime.com/share/@CyberBull/e5291fff-f7b1-44b4-944e-d4c7d9bc674a.svg" width="800" alt="Last 7 Days Code Time" />
+      <br>
+      <strong>Last Years Code Time</strong>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://wakatime.com/share/@CyberBull/8654cbbb-48a5-495d-81ac-ffebec1bf84d.svg" width="800" alt="Last 7 Days" />
-</p>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@CyberBull/e5291fff-f7b1-44b4-944e-d4c7d9bc674a.svg" width="800" alt="Last 7 Days Code Time" />
-</p>
+---
 
 
 <!--Trophies Section-->   
@@ -155,4 +213,3 @@ I'm always open to new opportunities for collaboration, learning, and sharing kn
 
 
 Feel free to explore my repositories and projects or reach out for collaboration opportunities!
-
