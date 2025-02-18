@@ -1,0 +1,916 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TYDG6RKQ6G"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date()); 
+
+  gtag('config', 'G-TYDG6RKQ6G');
+  </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pitch Deck</title>
+  
+  <!-- Tailwind CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
+  
+  <!-- Font Awesome for Icons -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    integrity="sha512-...YOUR_INTEGRITY_HASH..."
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  
+  <!-- Chart.js for charts -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  
+  <style>
+    /* Gradient Background */
+    .gradient-bg {
+      background: linear-gradient(135deg, #1e3a8a, #0ea5e9);
+    }
+    /* Hover Scale */
+    .hover-scale {
+      transition: transform 0.3s ease;
+    }
+    .hover-scale:hover {
+      transform: scale(1.05);
+    }
+    /* Chart Container */
+    .chart-container {
+      width: 100%;
+      height: 400px;
+    }
+    /* Architecture Image */
+    .architecture-img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    /* Simple Fade-In-Up Animation */
+    @keyframes fadeInUp {
+      0% {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .fade-in-up {
+      opacity: 0; /* start invisible */
+    }
+    .fade-in-up.animated {
+      animation: fadeInUp 1s ease-out forwards;
+    }
+  </style>
+</head>
+<body class="bg-gray-900 text-white font-sans">
+
+ <!-- Navbar -->
+  <nav id="navbar" class="p-4 w-full z-10 top-0 bg-black/50 backdrop-blur-lg transition duration-300">
+    <div class="container mx-auto flex justify-between items-center">
+      <!-- Logo -->
+      <div class="text-xl lg:text-2xl font-bold text-white flex items-center">
+        <i class="fas fa-shield-alt mr-2 text-blue-500"></i> OxSecure Intelligence
+      </div>
+
+      <!-- Menu Icon for Mobile -->
+      <button id="menu-toggle" class="text-white text-2xl focus:outline-none lg:hidden">
+        <i class="fas fa-bars"></i>
+      </button>
+
+      <!-- Navigation Links -->
+      <div id="menu" class="hidden lg:flex space-x-4 items-center">
+        <a href="#about" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-info-circle mr-1"></i> About
+        </a>
+        <a href="#features" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-cogs mr-1"></i> Features
+        </a>
+        <a href="#market" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-chart-line mr-1"></i> Market
+        </a>
+        <a href="#why-invest" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-hand-holding-usd mr-1"></i> Why Invest
+        </a>
+        <a href="#architecture" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-drafting-compass mr-1"></i> Architecture
+        </a>
+        <a href="#ecosystem" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-globe mr-1"></i> Ecosystem
+        </a>
+        <a href="#investment-growth" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-chart-pie mr-1"></i> Growth
+        </a>
+        <a href="#financials" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-file-invoice-dollar mr-1"></i> Financials
+        </a>
+        <a href="#team" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-users mr-1"></i> Team
+        </a>
+        <a href="#contact" class="text-gray-300 hover:text-blue-400 transition duration-300">
+          <i class="fas fa-envelope mr-1"></i> Contact
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Mobile Menu -->
+  <div id="mobile-menu" class="hidden bg-gray-800 text-white p-4 space-y-2 lg:hidden">
+    <a href="#about" class="block py-2 hover:text-blue-400">About</a>
+    <a href="#features" class="block py-2 hover:text-blue-400">Features</a>
+    <a href="#market" class="block py-2 hover:text-blue-400">Market</a>
+    <a href="#why-invest" class="block py-2 hover:text-blue-400">Why Invest</a>
+    <a href="#architecture" class="block py-2 hover:text-blue-400">Architecture</a>
+    <a href="#ecosystem" class="block py-2 hover:text-blue-400">Ecosystem</a>
+    <a href="#investment-growth" class="block py-2 hover:text-blue-400">Growth</a>
+    <a href="#financials" class="block py-2 hover:text-blue-400">Financials</a>
+    <a href="#team" class="block py-2 hover:text-blue-400">Team</a>
+    <a href="#contact" class="block py-2 hover:text-blue-400">Contact</a>
+  </div>
+
+  <!-- Mobile Menu Script -->
+  <script>
+    const menuToggle = document.getElementById('menu-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+
+    menuToggle.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+
+    // Navbar Scroll Behavior
+    let lastScrollTop = 0;
+    const navbar = document.getElementById('navbar');
+
+    window.addEventListener('scroll', () => {
+      const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+      
+      // Hide on scroll down, show on scroll up
+      if (scrollTop > lastScrollTop) {
+        navbar.style.transform = 'translateY(-100%)';
+      } else {
+        navbar.style.transform = 'translateY(0)';
+      }
+      lastScrollTop = scrollTop;
+    });
+  </script>
+
+  
+
+  <!-- Hero Section -->
+  <section class="gradient-bg py-20 fade-in-up">
+    <div class="container mx-auto text-center">
+      <h1 class="text-5xl font-bold mb-4">
+        AI-Powered Cybersecurity for the Next Generation of Threats
+      </h1>
+      <p class="text-xl mb-8">
+        Proactive, Automated, and Scalable Security Solutions
+      </p>
+      <a href="#contact" class="bg-white text-blue-900 px-8 py-3 rounded-full font-bold hover:bg-gray-200">
+        Get Started
+      </a>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="py-20 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-3xl font-bold text-center mb-8">
+        <i class="fas fa-exclamation-triangle mr-2"></i>The Problem
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-8">
+        <div>
+          <p class="text-lg mb-4">
+            Cybercrime costs are projected to reach <strong>$10.5 trillion</strong> by 2025.
+            Traditional security tools are reactive, slow, and inefficient.
+          </p>
+          <p class="text-lg">
+            OxSecure Intelligence leverages <strong>AISecOps</strong> to automate threat detection,
+            vulnerability management, and incident response—reducing the average breach identification
+            time from months to days or even hours.
+          </p>
+          <p class="text-lg">
+            Traditional security tools are reactive, slow, and inefficient, 
+            struggling to keep up with the rapid evolution of cyber threats. 
+            The average breach identification time is <strong>212 days</strong>, 
+            with an additional <strong>75 days</strong> to contain the breach, 
+            resulting in significant financial and reputational damage.
+          </p>
+        </div>
+        <div class="chart-container">
+          <canvas id="cybercrimeChart"></canvas>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features Section -->
+  <section id="features" class="py-20 bg-gray-900 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-4xl font-bold text-center text-white mb-12">
+        <i class="fas fa-tools mr-2 text-blue-500"></i>Our Solution
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <!-- Feature 1: Real-Time Threat Detection -->
+        <div class="p-6 bg-gray-800 rounded-xl hover-scale transform transition duration-300 hover:shadow-2xl">
+          <h3 class="text-2xl font-semibold text-white mb-4">
+            <i class="fas fa-bolt mr-2 text-yellow-400"></i>Real-Time Threat Detection
+          </h3>
+          <p class="text-gray-400 leading-relaxed">
+            AI models detect and respond to threats in real-time, reducing response time by up to 80%. Proactive monitoring ensures enhanced security.
+          </p>
+        </div>
+        <!-- Feature 2: Automated Vulnerability Management -->
+        <div class="p-6 bg-gray-800 rounded-xl hover-scale transform transition duration-300 hover:shadow-2xl">
+          <h3 class="text-2xl font-semibold text-white mb-4">
+            <i class="fas fa-bug mr-2 text-red-400"></i>Automated Vulnerability Management
+          </h3>
+          <p class="text-gray-400 leading-relaxed">
+            Prioritize and patch vulnerabilities automatically using AI-driven insights, minimizing manual intervention and ensuring up-to-date security.
+          </p>
+        </div>
+        <!-- Feature 3: Generative AI for Code Audits -->
+        <div class="p-6 bg-gray-800 rounded-xl hover-scale transform transition duration-300 hover:shadow-2xl">
+          <h3 class="text-2xl font-semibold text-white mb-4">
+            <i class="fas fa-code-branch mr-2 text-green-400"></i>Generative AI for Code Audits
+          </h3>
+          <p class="text-gray-400 leading-relaxed">
+            Secure coding suggestions and automated refactoring with Gemini LLM to ensure code-level security best practices, enhancing development workflows.
+          </p>
+        </div>
+        <!-- Feature 4: Agentic LLM Workflow -->
+        <div class="p-6 bg-gray-800 rounded-xl hover-scale transform transition duration-300 hover:shadow-2xl">
+          <h3 class="text-2xl font-semibold text-white mb-4">
+            <i class="fas fa-robot mr-2 text-purple-400"></i>Agentic LLM Workflow
+          </h3>
+          <p class="text-gray-400 leading-relaxed">
+            Autonomous decision-making with Agentic LLMs for intelligent automation and strategic threat mitigation, improving operational efficiency.
+          </p>
+        </div>
+        <!-- Feature 5: Advanced Reasoning (COT, TOT, RPA Findings) -->
+        <div class="p-6 bg-gray-800 rounded-xl hover-scale transform transition duration-300 hover:shadow-2xl">
+          <h3 class="text-2xl font-semibold text-white mb-4">
+            <i class="fas fa-brain mr-2 text-pink-400"></i>Advanced Reasoning
+          </h3>
+          <p class="text-gray-400 leading-relaxed">
+            Enhanced Chain of Thought (COT), Tree of Thought (TOT), and RPA findings for advanced contextual reasoning and decision-making.
+          </p>
+        </div>
+        <!-- Feature 6: PTaaS with Security Kernel -->
+        <div class="p-6 bg-gray-800 rounded-xl hover-scale transform transition duration-300 hover:shadow-2xl">
+          <h3 class="text-2xl font-semibold text-white mb-4">
+            <i class="fas fa-shield-alt mr-2 text-blue-400"></i>PTaaS with Security Kernel
+          </h3>
+          <p class="text-gray-400 leading-relaxed">
+            Penetration Testing as a Service (PTaaS) with a robust security kernel for continuous vulnerability assessment and advanced threat detection.
+          </p>
+        </div>
+        <!-- Feature 7: Self-Learning Agents -->
+        <div class="p-6 bg-gray-800 rounded-xl hover-scale transform transition duration-300 hover:shadow-2xl">
+          <h3 class="text-2xl font-semibold text-white mb-4">
+            <i class="fas fa-sync-alt mr-2 text-teal-400"></i>Self-Learning Agents
+          </h3>
+          <p class="text-gray-400 leading-relaxed">
+            Adaptive security measures with self-learning agents using reinforcement learning for evolving threat landscapes and proactive defense.
+          </p>
+        </div>
+        <!-- Feature 8: Advanced Threat Intelligence -->
+        <div class="p-6 bg-gray-800 rounded-xl hover-scale transform transition duration-300 hover:shadow-2xl">
+          <h3 class="text-2xl font-semibold text-white mb-4">
+            <i class="fas fa-shield-alt mr-2 text-indigo-400"></i>Advanced Threat Intelligence
+          </h3>
+          <p class="text-gray-400 leading-relaxed">
+            Leverage real-time threat intelligence feeds to enhance security posture. integrated with external threat intelligence sources, including commercial and open-source feeds, providing a comprehensive view of the evolving threat landscape.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Market Opportunity Section -->
+  <section id="market" class="py-20 bg-gray-900 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-4xl font-bold text-center mb-8 text-white-800 dark:text-gray-100">
+        <i class="fas fa-chart-line mr-2 text-blue-500"></i>Market Opportunity
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-1 lg-grid-cols-4 gap-8">
+        <div>
+          <h3 class="text-2xl font-semibold mb-4 text-white-700 dark:text-gray-300">
+            Explosive Growth in Cybersecurity
+          </h3>
+          <p class="text-lg mb-4 text-white-600 dark:text-gray-400">
+            The global cybersecurity market is projected to reach 
+            <strong>$300 billion</strong> by 2028, driven by the increasing frequency and sophistication 
+            of cyber threats. Organizations are prioritizing security investments to protect sensitive data 
+            and ensure business continuity.
+          </p>
+          <p class="text-lg mb-4 text-white-600 dark:text-gray-400">
+            AI-driven security tools are leading the growth, offering proactive threat intelligence, 
+            automated incident response, and adaptive security mechanisms.
+            As a pioneer in <strong>AISecOps</strong>, OxSecure is strategically positioned to capture 
+            a significant share of this rapidly growing market.
+          </p>
+          <h3 class="text-2xl font-semibold mb-4 text-white-700 dark:text-gray-300">
+            Target Audience & Market Reach
+          </h3>
+          <ul class="list-disc ml-6 text-lg text-white-600 dark:text-gray-400">
+            <li class="mb-2">Enterprises: Advanced threat detection and compliance management.</li>
+            <li class="mb-2">Small and Medium-Sized Enterprises (SMEs): Scalable, cost-effective solutions.</li>
+            <li class="mb-2">Managed Security Service Providers (MSSPs): Multi-tenant support and automation.</li>
+            <li class="mb-2">Government & Public Sector: Robust security for critical infrastructure.</li>
+          </ul>
+          <p class="text-lg text-white-600 dark:text-gray-400">
+            OxSecure offers flexible deployment models, including cloud-native, on-premises, and hybrid, 
+            ensuring seamless integration across multi-cloud environments.
+          </p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+          <div class="chart-container mx-auto">
+            <canvas id="marketChart"></canvas>
+          </div>
+          <div class="chart-container mx-auto">
+            <canvas id="marketsChart"></canvas>
+          </div>
+        </div>
+      </div>      
+     </div>
+  </section>
+
+  <!-- Why Invest Section -->
+    <section id="why-invest" class="py-20 bg-gray-800 fade-in-up">
+        <div class="container mx-auto w-11/12">
+        <h2 class="text-3xl font-bold text-center mb-8 text-white">
+            <i class="fas fa-hand-holding-usd mr-2"></i>Why Invest in OxSecure?
+        </h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg-grid-cols-4 gap-8">
+            <!-- Key Benefits and Unique Features -->
+            <div class="space-y-4 text-white">
+            <p class="text-lg">
+                OxSecure is at the forefront of cybersecurity innovation, leveraging state-of-the-art AI technology to deliver unparalleled security solutions. Here's why investing in OxSecure is a smart decision:
+            </p>
+            <ul class="list-disc ml-6 space-y-2">
+                <li><i class="fas fa-rocket mr-2"></i><strong>High-Growth Market:</strong> Positioned to capitalize on the exponential rise in cybersecurity threats and AI-driven defense solutions.</li>
+                <li><i class="fas fa-brain mr-2"></i><strong>LLM-Driven Agents:</strong> Utilizing Large Language Models to create autonomous agents that perform real-time threat detection, analysis, and mitigation.</li>
+                <li><i class="fas fa-robot mr-2"></i><strong>Autonomous Real-Time Simulation:</strong> Advanced AI-driven simulations for proactive threat hunting and incident response.</li>
+                <li><i class="fas fa-shield-alt mr-2"></i><strong>PTaaS (Penetration Testing as a Service):</strong> Continuous and automated security assessments with real-time reporting and mitigation recommendations.</li>
+                <li><i class="fas fa-network-wired mr-2"></i><strong>Integration with Open-Source SIEM Tools:</strong> Seamless integration with leading SIEM platforms for enhanced threat intelligence and log management.</li>
+                <li><i class="fas fa-user-shield mr-2"></i><strong>Next-Gen SOC Capabilities:</strong> AI-powered Security Operations Center with proactive monitoring, threat intelligence, and incident response automation.</li>
+                <li><i class="fas fa-chart-line mr-2"></i><strong>Comprehensive Reporting:</strong> In-depth, customizable reports covering all aspects of security posture, including compliance, threat analysis, and remediation.</li>
+                <li><i class="fas fa-dollar-sign mr-2"></i><strong>Scalable Revenue Model:</strong> Flexible SaaS offerings with recurring revenue streams and consulting services.</li>
+            </ul>
+            <a href="#contact" class="inline-block bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-full mt-6">
+                Schedule a Meeting
+            </a>
+            </div>
+            <!-- Engaging Visual and Call to Action -->
+            <div class="flex items-center justify-center">
+            <img src="imgs/bot.jpg" alt="Investment Growth" class="rounded-lg shadow-lg" />
+            </div>
+        </div>
+        </div>
+    </section>
+  
+
+  <!-- Architecture Section -->
+  <section id="architecture" class="py-20 bg-gray-900 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-3xl font-bold text-center mb-8">
+        <i class="fas fa-network-wired mr-2"></i>OxSecure Multi-Cloud AISecOps Architecture
+      </h2>
+      <p class="text-center mb-8 max-w-2xl mx-auto">
+        Below is our multi-cloud AISecOps architecture with AI/ML integration. It highlights how data flows across multiple layers—threat intelligence, scanning, patching, and incident response—to provide real-time, end-to-end security.
+      </p>
+      <div class="text-center">
+        <a href="imgs/arch ox.png" target="_blank">
+          <img src="imgs/arch ox.png" alt="OxSecure Multi-Cloud AISecOps Architecture" class="mx-auto rounded-lg shadow-lg w-full max-w-4xl" />
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Ecosystem Section -->
+  <section id="ecosystem" class="py-20 bg-gray-800 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-3xl font-bold text-center mb-8">
+        <i class="fas fa-cubes mr-2"></i>The OxSecure Ecosystem
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
+        <div class="p-6 bg-gray-700 rounded-lg hover-scale">
+          <h3 class="text-xl font-bold mb-4">
+            <i class="fas fa-brain mr-2"></i>OxIntell
+          </h3>
+          <p>AI-driven threat detection and code audits.</p>
+        </div>
+        <div class="p-6 bg-gray-700 rounded-lg hover-scale">
+          <h3 class="text-xl font-bold mb-4">
+            <i class="fas fa-search mr-2"></i>OxRAG
+          </h3>
+          <p>Retrieval-augmented insights for unstructured data.</p>
+        </div>
+        <div class="p-6 bg-gray-700 rounded-lg hover-scale">
+          <h3 class="text-xl font-bold mb-4">
+            <i class="fas fa-robot mr-2"></i>OxImaGen
+          </h3>
+          <p>Generative AI for threat simulation and comprehensive reports.</p>
+        </div>
+        <div class="p-6 bg-gray-700 rounded-lg hover-scale">
+          <h3 class="text-xl font-bold mb-4">
+            <i class="fas fa-network-wired mr-2"></i>OxScanner
+          </h3>
+          <p>Network security with AI-powered IDS for real-time intrusion detection.</p>
+        </div>
+        <div class="p-6 bg-gray-700 rounded-lg hover-scale">
+          <h3 class="text-xl font-bold mb-4">
+            <i class="fas fa-shield-virus mr-2"></i>AD_VulnxAI
+          </h3>
+          <p>
+            Advanced vulnerability analysis with integrated AI for automated patching, risk scoring, and continuous compliance checks.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+      <!-- Architecture Workflow Outline -->
+      <div class="mt-12 p-6 bg-gray-700 rounded-lg w-11/12 mx-auto">
+        <h3 class="text-2xl font-bold mb-4">
+          <i class="fas fa-diagram-project mr-2"></i>OxSecure Architecture Workflows
+        </h3>
+        <p class="mb-4">
+          The diagram above illustrates how each product in the OxSecure ecosystem interconnects to deliver real-time, end-to-end security across multi-cloud environments. Below is a high-level outline of the workflow:
+        </p>
+        <ol class="list-decimal ml-6 space-y-3">
+          <li>
+            <strong>Data Collection & Integration:</strong> Security logs and events from multi-cloud sources, on-prem systems, and endpoints are collected and normalized in a central data lake.
+          </li>
+          <li>
+            <strong>Threat Intelligence & Code Audits (OxIntell):</strong> Leveraging AI/ML models for real-time threat detection and code-level security audits. Suspicious activities or vulnerabilities are flagged for further analysis.
+          </li>
+          <li>
+            <strong>Retrieval-Augmented Insights (OxRAG):</strong> Ingest unstructured data from various knowledge bases, compliance documents, and threat feeds to enrich threat intelligence and provide context-aware insights.
+          </li>
+          <li>
+            <strong>Generative AI for Threat Simulation (OxImaGen):</strong> Simulate potential attack vectors using generative AI to predict attacker behavior and produce comprehensive incident reports for security teams.
+          </li>
+          <li>
+            <strong>Network Scanning & Intrusion Detection (OxScanner):</strong> Continuously monitors network traffic for anomalies. Integrates with AI-driven IDS/IPS for proactive blocking of malicious activities.
+          </li>
+          <li>
+            <strong>Vulnerability Management & Automated Patching (AD_VulnxAI):</strong> Performs advanced vulnerability analysis, assigns risk scores, and triggers automated patching workflows to minimize manual intervention and reduce exposure time.
+          </li>
+          <li>
+            <strong>Security Orchestration, Automation & Response (SOAR):</strong> Ties all detections, insights, and patching actions together, coordinating across multi-cloud platforms. Incidents are automatically escalated or remediated, ensuring rapid response.
+          </li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- Investment Growth Section -->
+  <section id="investment-growth" class="py-20 bg-gray-800 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-4xl font-bold text-center mb-8 text-white-800 dark:text-gray-100">
+        <i class="fas fa-chart-area mr-2"></i>Investment Growth
+      </h2>
+      <p class="text-center mb-8 max-w-2xl mx-auto text-white-600 dark:text-gray-400">
+        The chart below illustrates the projected growth of your investment over the next 5 years.
+        By leveraging advanced AISecOps solutions and strategic market positioning, we expect 
+        significant capital appreciation and an attractive ROI.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-8">
+        <div>
+          <h3 class="text-2xl font-semibold mb-4 text-white-700 dark:text-gray-300">
+            Key Growth Drivers
+          </h3>
+          <ul class="list-disc ml-6 text-lg text-white-600 dark:text-gray-400">
+            <li class="mb-2">
+              <strong>Market Expansion:</strong> Increasing demand for AI-driven cybersecurity solutions.
+            </li>
+            <li class="mb-2">
+              <strong>Innovation Leadership:</strong> Continuous development of advanced AISecOps tools.
+            </li>
+            <li class="mb-2">
+              <strong>Recurring Revenue Streams:</strong> Subscription-based models for sustainable growth.
+            </li>
+            <li class="mb-2">
+              <strong>Strategic Partnerships:</strong> Collaborations with MSSPs and cloud providers.
+            </li>
+          </ul>
+          <p class="text-lg text-white-600 dark:text-gray-400">
+            With a rapidly growing global market, OxSecure is strategically positioned to maximize 
+            investor returns and capture significant market share.
+          </p>
+        </div>
+        <div class="flex items-center">
+          <div class="chart-container">
+            <canvas id="investmentGrowthChart"></canvas>
+          </div>
+        </div>        
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Financial Snapshot Section -->
+  <section id="financials" class="py-20 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-3xl font-bold text-center mb-8">
+        <i class="fas fa-chart-pie mr-2"></i>Financial Snapshot
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-1 lg:grid-cols-2 gap-8">
+        <div>
+          <p class="text-lg mb-4">
+            We are seeking a <strong>₹2.4 Crore seed round</strong> to scale our platform and acquire enterprise clients.
+          </p>
+          <p class="text-lg mb-4">
+            Projected Year 1 Revenue: <strong>₹3.5 Crore</strong>, with a growing ARR beyond that, fueled by our subscription-based SaaS and consulting models.
+          </p>
+          <p class="text-lg">
+            <strong>How the Funds Will Be Used:</strong>
+          </p>
+          <ul class="list-disc ml-6 text-gray-400">
+            <li><strong>Platform Scaling (40%):</strong> Enhance infrastructure, improve AI capabilities, and optimize SaaS platform performance to handle enterprise-level clients.</li>
+            <li><strong>Sales & Marketing (30%):</strong> Build a dedicated sales and marketing team, develop go-to-market strategies, and implement targeted campaigns to acquire new customers in multiple industries.</li>
+            <li><strong>Product Development (20%):</strong> Invest in R&D for new features, integrations, and improvements to ensure the platform remains at the forefront of security innovation.</li>
+            <li><strong>Operations & Hiring (10%):</strong> Expand operational capabilities, hire top talent in AI, cybersecurity, and sales, and set up additional offices for regional expansion.</li>
+          </ul>
+          <p class="text-lg mt-6">
+            Our financial plan ensures that every rupee invested contributes to accelerating growth, expanding market presence, and building long-term value for investors.
+          </p>
+        </div>
+        <div class="chart-container">
+          <canvas id="revenueChart"></canvas>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Team Section -->
+  <section id="team" class="py-20 bg-gray-900 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-4xl font-bold text-center text-white mb-12">
+        <i class="fas fa-users mr-2 text-blue-500"></i>Meet the Team
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-10">
+        <!-- Team Member 1 -->
+        <div class="bg-gray-800 rounded-xl p-6 text-center transform transition duration-300 hover:scale-105 hover:shadow-2xl">
+          <img src="imgs/ad.png" alt="Aditya Pandey" class="w-32 h-32 mx-auto rounded-full mb-4 border-4 border-blue-500">
+          <h4 class="text-2xl font-semibold text-white">Aditya Pandey</h4>
+          <p class="text-blue-400 text-sm">CEO & Chief AI Architect</p>
+          <p class="mt-3 text-gray-400 text-sm leading-relaxed">
+            Visionary leader driving OxSecure's strategic direction. Expert in Agentic LLM Engineering, Deep Learning Architect, and Cybersecurity Innovator. Architect of advanced AI pipelines with a focus on secure deployment.
+          </p>
+          <!-- Portfolio Button -->
+          <a href="https://aadi-web8.vercel.app/" target="_blank" class="inline-block mt-4 bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg transition duration-300">
+            View Portfolio
+          </a>
+        </div>
+        <!-- Team Member 2 -->
+        <div class="bg-gray-800 rounded-xl p-6 text-center transform transition duration-300 hover:scale-105 hover:shadow-2xl">
+          <img src="imgs/sd.png" alt="Shivam Dwivedi" class="w-32 h-32 mx-auto rounded-full mb-4 border-4 border-blue-500">
+          <h4 class="text-2xl font-semibold text-white">Shivam Dwivedi</h4>
+          <p class="text-blue-400 text-sm">Co-Founder & CloudOps Lead</p>
+          <p class="mt-3 text-gray-400 text-sm leading-relaxed">
+            Specialist in Multi-Cloud Architecture, DevOps Automation, and SRE-MLOps. Leads the design of scalable cloud solutions and microservices architecture, ensuring high availability and reliability.
+          </p>
+        </div>
+        <!-- Team Member 3 -->
+        <div class="bg-gray-800 rounded-xl p-6 text-center transform transition duration-300 hover:scale-105 hover:shadow-2xl">
+          <img src="https://via.placeholder.com/120" alt="Nabaranjan Palatasingh" class="w-32 h-32 mx-auto rounded-full mb-4 border-4 border-blue-500">
+          <h4 class="text-2xl font-semibold text-white">Nabaranjan Palatasingh</h4>
+          <p class="text-blue-400 text-sm">Co-Founder & Lead ML Engineer</p>
+          <p class="mt-3 text-gray-400 text-sm leading-relaxed">
+            ML Engineer with deep expertise in AI model development, risk management, and threat intelligence. Leads research and development of advanced ML algorithms for cybersecurity solutions.
+          </p>
+        </div>
+        <!-- Team Member 4 -->
+        <div class="bg-gray-800 rounded-xl p-6 text-center transform transition duration-300 hover:scale-105 hover:shadow-2xl">
+          <img src="https://via.placeholder.com/120" alt="Neeraj Kumar" class="w-32 h-32 mx-auto rounded-full mb-4 border-4 border-blue-500">
+          <h4 class="text-2xl font-semibold text-white">Neeraj Kumar</h4>
+          <p class="text-blue-400 text-sm">Backend Engineer & Security Specialist</p>
+          <p class="mt-3 text-gray-400 text-sm leading-relaxed">
+            Expert in Core Java, Backend Development, and Security Protocols. Builds secure and efficient backend systems, ensuring data integrity and robust application security.
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="py-20 fade-in-up">
+    <div class="container mx-auto w-11/12">
+      <h2 class="text-3xl font-bold text-center mb-8">
+        <i class="fas fa-envelope mr-2"></i>Get In Touch
+      </h2>
+      <div class="max-w-xl mx-auto bg-gray-800 p-8 rounded-lg shadow-lg">
+        <form action="#" method="POST" class="space-y-4">
+          <div>
+            <label class="block mb-2 font-bold" for="name">Name</label>
+            <input class="w-full p-2 rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500" type="text" id="name" name="name" placeholder="Your Name" required>
+          </div>
+          <div>
+            <label class="block mb-2 font-bold" for="email">Email</label>
+            <input class="w-full p-2 rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500" type="email" id="email" name="email" placeholder="Your Email" required>
+          </div>
+          <div>
+            <label class="block mb-2 font-bold" for="message">Message</label>
+            <textarea class="w-full p-2 rounded bg-gray-700 text-white focus:outline-none focus:ring-2 focus:ring-blue-500" id="message" name="message" rows="5" placeholder="How can we help?" required></textarea>
+          </div>
+          <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-full">
+            Send Message
+          </button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-6 bg-gray-800">
+    <div class="container mx-auto text-center">
+      <p>&copy; 2025 OxSecure Intelligence. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- Scripts for Charts and Animations -->
+  <script>
+    // Intersection Observer for Fade-In Animation
+    document.addEventListener("DOMContentLoaded", function() {
+      const elements = document.querySelectorAll(".fade-in-up");
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("animated");
+          }
+        });
+      }, { threshold: 0.1 });
+      
+      elements.forEach(el => observer.observe(el));
+    });
+
+    // Cybercrime Cost Chart (Chart.js) - Line Chart
+    const cybercrimeChartCtx = document.getElementById('cybercrimeChart').getContext('2d');
+    new Chart(cybercrimeChartCtx, {
+      type: 'line',
+      data: {
+        labels: [2020, 2021, 2022, 2023, 2024, 2025],
+        datasets: [{
+          label: 'Global Cybercrime Costs (Trillions USD)',
+          data: [1, 3, 6, 8, 9.5, 10.5],
+          borderColor: '#0ea5e9',
+          backgroundColor: 'rgba(14,165,233,0.2)',
+          fill: true,
+          tension: 0.2
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: 'Global Cybercrime Costs (Trillions USD)',
+            color: '#fff'
+          },
+          legend: {
+            display: false
+          }
+        },
+        scales: {
+          x: {
+            title: {
+              display: true,
+              text: 'Year',
+              color: '#fff'
+            },
+            ticks: { color: '#fff' },
+            grid: { color: '#555' }
+          },
+          y: {
+            title: {
+              display: true,
+              text: 'Cost (Trillions USD)',
+              color: '#fff'
+            },
+            ticks: { color: '#fff' },
+            grid: { color: '#555' },
+            beginAtZero: true
+          }
+        }
+      }
+    });
+
+    // Market Opportunity Chart (Chart.js) - Pie Chart
+    const marketChartCtx = document.getElementById('marketChart').getContext('2d');
+    new Chart(marketChartCtx, {
+      type: 'pie',
+      data: {
+        labels: ['AI-Driven Tools', 'Traditional Tools'],
+        datasets: [{
+          data: [120, 180],
+          backgroundColor: ['#0ea5e9', '#1e3a8a']
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: 'Cybersecurity Market Share (2028)',
+            color: '#fff'
+          },
+          legend: {
+            labels: { color: '#fff' }
+          }
+        }
+      }
+    });
+
+    // Market Opportunity Chart Data
+    const ctxMarket = document.getElementById('marketsChart').getContext('2d');
+    new Chart(ctxMarket, {
+      type: 'bar',
+      data: {
+        labels: ['2023', '2024', '2025', '2026', '2027', '2028'],
+        datasets: [{
+          label: 'Global Cybersecurity Market (Billion USD)',
+          data: [200, 230, 260, 290, 320, 350],
+          backgroundColor: 'rgba(59, 130, 246, 0.6)', // Blue bars
+          borderColor: '#3b82f6',
+          borderWidth: 2,
+          borderRadius: 8,
+          hoverBackgroundColor: 'rgba(37, 99, 235, 0.8)',
+          hoverBorderColor: '#2563eb'
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            display: true,
+            labels: {
+              color: '#fff'
+            }
+          }
+        },
+        scales: {
+          x: {
+            ticks: {
+              color: '#fff'
+            },
+            grid: {
+              color: 'rgba(75, 85, 99, 0.2)'
+            }
+          },
+          y: {
+            ticks: {
+              color: '#fff',
+              callback: function(value) {
+                return '$' + value + 'B';
+              }
+            },
+            grid: {
+              color: 'rgba(75, 85, 99, 0.2)'
+            }
+          }
+        }
+      }
+    });
+
+    // Revenue Chart (Chart.js) - Bar Chart
+    const revenueChartCtx = document.getElementById('revenueChart').getContext('2d');
+    new Chart(revenueChartCtx, {
+      type: 'bar',
+      data: {
+        labels: ['Year 1', 'Year 2', 'Year 3'],
+        datasets: [{
+          label: 'Projected Revenue (Thousands USD)',
+          data: [420, 1200, 3000],
+          backgroundColor: '#0ea5e9'
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: 'Projected Revenue (Thousands USD)',
+            color: '#fff'
+          },
+          legend: {
+            display: false
+          }
+        },
+        scales: {
+          x: {
+            title: {
+              display: true,
+              text: 'Year',
+              color: '#fff'
+            },
+            ticks: { color: '#fff' },
+            grid: { color: '#555' }
+          },
+          y: {
+            title: {
+              display: true,
+              text: 'Revenue (Thousands USD)',
+              color: '#fff'
+            },
+            ticks: { color: '#fff' },
+            grid: { color: '#555' },
+            beginAtZero: true
+          }
+        }
+      }
+    });
+
+    // Investment Growth Chart (Chart.js) - Dual Axis Line Chart
+    const investmentGrowthChartCtx = document.getElementById('investmentGrowthChart').getContext('2d');
+    new Chart(investmentGrowthChartCtx, {
+      type: 'line',
+      data: {
+        labels: ['Year 1', 'Year 2', 'Year 3', 'Year 4', 'Year 5'],
+        datasets: [
+          {
+            label: 'Investment Growth ($K)',
+            data: [300, 500, 800, 1300, 2000],
+            borderColor: '#0ea5e9',
+            backgroundColor: 'rgba(14,165,233,0.2)',
+            fill: true,
+            tension: 0.2,
+            yAxisID: 'y'
+          },
+          {
+            label: 'ROI Projection (%)',
+            data: [15, 25, 35, 50, 65],
+            borderColor: '#f59e0b',
+            backgroundColor: 'rgba(245,158,11,0.2)',
+            fill: true,
+            tension: 0.2,
+            yAxisID: 'y1'
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: 'Investment Growth & ROI Projections Over 5 Years',
+            color: '#fff'
+          },
+          legend: {
+            labels: { color: '#fff' }
+          }
+        },
+        scales: {
+          x: {
+            title: {
+              display: true,
+              text: 'Year',
+              color: '#fff'
+            },
+            ticks: { color: '#fff' },
+            grid: { color: '#555' }
+          },
+          y: {
+            type: 'linear',
+            position: 'left',
+            title: {
+              display: true,
+              text: 'Investment Growth ($K)',
+              color: '#fff'
+            },
+            ticks: { color: '#fff' },
+            grid: { color: '#555' },
+            beginAtZero: true
+          },
+          y1: {
+            type: 'linear',
+            position: 'right',
+            title: {
+              display: true,
+              text: 'ROI Projection (%)',
+              color: '#fff'
+            },
+            ticks: { color: '#fff' },
+            grid: {
+              drawOnChartArea: false
+            },
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>
