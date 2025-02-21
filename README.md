@@ -52,9 +52,9 @@ Let's connect and collaborate! Here's where you can find me:
           <td><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="24"></td>
         </tr>
         <tr>
-          <td>Instagram</td>
-          <td><a href="https://www.instagram.com/igx_aadi/">igx__aadi</a></td>
-          <td><img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="24"></td>
+          <td>Credly</td>
+          <td><a href="https://www.credly.com/users/aditya-pandey.f626aa7f">Badges </a></td>
+          <td><img src="https://img.icons8.com/?size=100&id=GZLHWbmjg8pH&format=png&color=000000" alt="Instagram" width="24"></td>
         </tr>
       </table>
     </td>
