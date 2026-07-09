@@ -1,215 +1,233 @@
-
-# Welcome ! Nice to see you ☺️
+# ⚡ WELCOME TO MY SECURE NETWORK
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=Profile%20views&color=0e75b6&style=flat" alt="CYBERBULL123" />
+  <img src="imgs/banner.png" alt="Cyberpunk Security Banner" width="100%" />
 </p>
 
-<div align="center">
-  <img height="200", width="800" src="https://media.giphy.com/media/qdf1QyvxipVh6/giphy.gif" />
-</div>
-
-<br></br>
-
-Hey there! I'm **Aditya Pandey**, a passionate **Cybersecurity Researcher** and **Purple Teamer**. I specialize in securing systems, uncovering vulnerabilities, and enhancing cyber defenses. Beyond cybersecurity, I explore **Game Development** using **Godot** and delve into **AI**, **LLM Automation**, **NLP**, and **GANs**.  
-
----
-
-## 💼 **Professional Highlights**  
-- **Cybersecurity Researcher:** Specializing in vulnerability assessment, system hardening, and purple team operations.  
-- **Ethical Hacker:** Identifying and mitigating security risks to ensure robust systems.  
-- **Game Developer:** Crafting immersive 3D games with **Godot**.  
-- **AI Enthusiast:** Exploring AI applications in cybersecurity and beyond.  
-
----
-
-## 🌐 **Connect with Me**  
-
-Let's connect and collaborate! Here's where you can find me:  
-
-<table>
-  <tr>
-    <td width="70%">
-      <table>
-        <tr>
-          <th>Platform</th>
-          <th>Link</th>
-          <th>Icon</th>
-        </tr>
-        <tr>
-          <td>LinkedIn</td>
-          <td><a href="https://www.linkedin.com/in/aditya-pandey-896109224/">Aditya Pandey</a></td>
-          <td><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24"></td>
-        </tr>
-        <tr>
-          <td>Website</td>
-          <td><a href="https://aadi-web8.vercel.app/">Portfolio</a></td>
-          <td><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="24"></td>
-        </tr>
-        <tr>
-          <td>Medium</td>
-          <td><a href="https://cyberbull.medium.com/">Cybersecurity Insights</a></td>
-          <td><img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="24"></td>
-        </tr>
-        <tr>
-          <td>Credly</td>
-          <td><a href="https://www.credly.com/users/aditya-pandey.f626aa7f">Badges </a></td>
-          <td><img src="https://img.icons8.com/?size=100&id=GZLHWbmjg8pH&format=png&color=000000" alt="Instagram" width="24"></td>
-        </tr>
-      </table>
-    </td>
-    <td width="60%">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding" width="200" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📝 **Featured Projects**  
-
-Here are some of my standout projects:  
-
-| Project Name               | Description                                                                 | Technologies Used             | Link                                                                 |
-|----------------------------|-----------------------------------------------------------------------------|-------------------------------|----------------------------------------------------------------------|
-| **OxSecure Suite**         | A cybersecurity tool for threat intelligence and automation.                | LangChain, Gemini, OpenAI     | [OxSecure Suite](https://oxsuite.streamlit.app/)                     |
-| **NetDc0dE**               | Advanced networking tools for security professionals.                       | Python, Networking            | [NetDc0dE](https://github.com/CYBERBULL123/NetDc0dE)                |
-| **Zombies Apocalypse**     | A thrilling 3D game developed using Godot.                                  | Godot, 3D Game Development    | [Zombies Apocalypse](https://github.com/CYBERBULL123/Zombies-Apocalypse) |
-
----
-
-## 🚀 **Let's Collaborate!**  
-
-I'm always open to new opportunities for collaboration, learning, and sharing knowledge. Whether it's cybersecurity, game development, or AI, let's work together to create a safer and more exciting digital world!  
-
-Feel free to reach out via **LinkedIn** or explore my projects on **GitHub**. Let's connect and make an impact!  
-
----  
-
-## ⚡️ **Skills & Technologies**
-
-### **Core Technologies**
-
-| **Programming Languages**   | **Cloud & DevOps**         | **Frameworks & Libraries**      | **Version Control & Tools**   |
-|-----------------------------|----------------------------|---------------------------------|-------------------------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4E7E?style=for-the-badge&logo=streamlit&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white) |
-
-### **Specialized Skills**
-
-| **AI/GenAI & Cybersecurity** | **Miscellaneous & Tools**   | **Cybersecurity & Ethical Hacking** |
-|-----------------------------|-----------------------------|--------------------------------------|
-| ![AI/ML](https://img.shields.io/badge/AI%2FML-4285F4?style=for-the-badge&logo=google&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E3B4E?style=for-the-badge&logo=security&logoColor=white) |
-| ![LangChain](https://img.shields.io/badge/LangChain-002D55?style=for-the-badge&logo=java&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-4EAA25?style=for-the-badge&logo=hackaday&logoColor=white) |
-| ![Gemini](https://img.shields.io/badge/Gemini-0033A0?style=for-the-badge&logo=google&logoColor=white) | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) | ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-2E3B4E?style=for-the-badge&logo=metasploit&logoColor=white) |
-| ![GAN](https://img.shields.io/badge/GAN-000000?style=for-the-badge&logo=deezer&logoColor=white) | ![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) |                                      |
-
----
-
-## 🏆 **Wakatime Stats**
-
-#### Profile: [Wakaime](https://wakatime.com/@CyberBull)
-
-### **Wakatime Overview**
-![Wakatime](https://wakatime.com/badge/user/018cfd06-2685-4d60-acfb-c9cc392c13d8.svg)
-
-### **Wakatime Stats Overview**
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://wakatime.com/share/@CyberBull/27f75abe-70e4-4c43-ad51-f9c3702fbeb9.svg" width="400" alt="Total Time" />
-      <br>
-      <strong>Last 7 Days</strong>
-    </td>
-    <td align="center">
-      <img src="https://wakatime.com/share/@CyberBull/8654cbbb-48a5-495d-81ac-ffebec1bf84d.svg" width="400" alt="Last 7 Days" />
-      <br>
-      <strong> Langauage Used</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://wakatime.com/share/@CyberBull/e5291fff-f7b1-44b4-944e-d4c7d9bc674a.svg" width="800" alt="Last 7 Days Code Time" />
-      <br>
-      <strong>Last Years Code Time</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/CYBERBULL123">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=CYBERBULL123&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=CYBERBULL123&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=CYBERBULL123&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
+  <img src="https://komarev.com/ghpvc/?username=CYBERBULL123&label=SYSTEM%20ACCESSES&color=00ffff&style=flat-square" alt="System Accesses" />
+</p>
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=Lead+AI+Architect;Agentic+Systems+Designer;AI+System+Design+%26+Builder;Cybersecurity+%26+Purple+Teamer" alt="Typing SVG" />
   </a>
 </p>
-<br />
 
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+---
+
+### 🤖 **SYSTEM LOGS: BIO**
+
+Greetings, operative. I'm **Aditya Pandey**, a **Lead AI Architect** and **AI System Designer & Builder**. My core focus is architecting production-grade **Agentic Systems**, advanced **Agentic RAG** pipelines, and secure AI system designs. Leveraging a strong background in **Cybersecurity and Purple Teaming**, I specialize in building highly resilient, autonomous, and self-correcting agent architectures.
+
+- 🔭 **Current Focus**: Agentic systems, multi-agent frameworks, and secure agent RAG topologies.
+- 🤝 **Collaboration**: Open for AI system design consulting, agent orchestrations, and threat-modeling AI workflows.
+- ⚡ **Core Philosophy**: Secure-by-design agentic automation.
+
+---
+
+## 🛠️ **TECH STACK & CAPABILITIES**
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+</p>
+
+### **AI Architectures & Agentic Systems**
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Agents-0F172A?style=for-the-badge&logo=botpress&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Agentic_RAG-0F172A?style=for-the-badge&logo=knowledge-base&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/AI_System_Design-0F172A?style=for-the-badge&logo=diagrams.net&logoColor=8E75C2" />
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=chainlink&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Google_Gemini-0F172A?style=for-the-badge&logo=google-gemini&logoColor=8E75C2" />
+  <img src="https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=412991" />
+  <img src="https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+</p>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=8E75C2&center=false&vCenter=true&width=650&height=25&lines=Active+Focus:+AI+Agents+%E2%9E%9E+Agentic+Systems+%E2%9E%9E+Agentic+RAG+%E2%9E%9E+AI+System+Design" alt="AI Focus" />
+</p>
+
+### **Cybersecurity & Threat Simulation**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&logo=security&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Kali_Linux-0F172A?style=for-the-badge&logo=kali-linux&logoColor=557C94" />
+  <img src="https://img.shields.io/badge/Metasploit-0F172A?style=for-the-badge&logo=metasploit&logoColor=FF6600" />
+  <img src="https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
+  <img src="https://img.shields.io/badge/Burp_Suite-0F172A?style=for-the-badge&logo=portswigger&logoColor=FF6600" />
+</p>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=39FF14&center=false&vCenter=true&width=500&height=25&lines=Active+Tools:+Kali+Linux+%E2%9E%9E+Metasploit+%E2%9E%9E+Wireshark+%E2%9E%9E+Burp+Suite" alt="Cybersecurity Tools" />
+</p>
+
+### **Languages & Shell Scripting**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/PowerShell-0F172A?style=for-the-badge&logo=powershell&logoColor=5391FE" />
+  <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6" />
+</p>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=00FFFF&center=false&vCenter=true&width=600&height=25&lines=Active+Languages:+Python+%E2%9E%9E+JavaScript+%E2%9E%9E+Bash+%E2%9E%9E+PowerShell+%E2%9E%9E+HTML5+%E2%9E%9E+CSS3" alt="Languages" />
+</p>
+
+### **Frameworks & Game Engines**
+<p align="left">
+  <img src="https://img.shields.io/badge/Godot_Engine-0F172A?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
+  <img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=092E20" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Streamlit-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4E7E" />
+</p>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=478CBF&center=false&vCenter=true&width=600&height=25&lines=Active+Engines:+Godot+Engine+%E2%9E%9E+Node.js+%E2%9E%9E+Django+%E2%9E%9E+Next.js+%E2%9E%9E+Streamlit" alt="Frameworks" />
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/GCP-0F172A?style=for-the-badge&logo=google-cloud&logoColor=4285F4" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Ubuntu-0F172A?style=for-the-badge&logo=ubuntu&logoColor=E95420" />
+</p>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&pause=800&color=FF9900&center=false&vCenter=true&width=500&height=25&lines=Active+Infrastructure:+AWS+%E2%9E%9E+GCP+%E2%9E%9E+Docker+%E2%9E%9E+Git+%E2%9E%9E+Ubuntu" alt="Infrastructure" />
+</p>
+
+---
+
+## 📁 **FEATURED ARCHIVES**
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/CYBERBULL123">
-          <img src="https://github-readme-stats.vercel.app/api?username=CYBERBULL123&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>🛡️ OxSecure Suite</h3>
+      <p>An AI-driven cybersecurity threat intelligence automation suite utilizing LangChain and LLM agents to orchestrate vulnerability scans and network threat analysis.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=chainlink&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini-0F172A?style=flat-square&logo=google-gemini&logoColor=white" />
       </p>
+      <a href="https://oxsuite.streamlit.app/"><b>Live App</b></a> | <a href="https://github.com/CYBERBULL123"><b>Repository</b></a>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/CYBERBULL123">
-          <img src="https://streak-stats.demolab.com?user=CYBERBULL123&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>🔌 NetDc0dE</h3>
+      <p>A specialized library of networking and scanning tools designed for red team vulnerability discovery and protocol manipulation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Networking-0F172A?style=flat-square&logo=wireshark&logoColor=white" />
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/CYBERBULL123/AtmaVeda">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CYBERBULL123&repo=AtmaVeda&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="AtmaVeda" />
-        </a>
-        <a href="https://github.com/CYBERBULL123/G-A.I-Cybersecurity">
-          <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=CYBERBULL123&repo=G-A.I-Cybersecurity&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="G-A.I-Cybersecurity" />
-        </a>
-      </p>
+      <a href="https://github.com/CYBERBULL123/NetDc0dE"><b>View Repository</b></a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/CYBERBULL123">
-          <img src="https://github-contributor-stats.vercel.app/api?username=CYBERBULL123&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Contributions" />
-        </a>
+    <td width="50%" valign="top">
+      <h3>🧟 Zombies Apocalypse</h3>
+      <p>An immersive 3D survival game with advanced pathfinding and interactive physics, built using the Godot engine and GDScript.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Godot-0F172A?style=flat-square&logo=godot-engine&logoColor=white" />
+        <img src="https://img.shields.io/badge/3D_Development-0F172A?style=flat-square" />
       </p>
+      <a href="https://github.com/CYBERBULL123/Zombies-Apocalypse"><b>View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 G-A.I-Cybersecurity</h3>
+      <p>A suite exploring artificial intelligence applications within cybersecurity automation, vulnerability identification, and custom NLP models.</p>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Security-0F172A?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <a href="https://github.com/CYBERBULL123/G-A.I-Cybersecurity"><b>View Repository</b></a>
     </td>
   </tr>
 </table>
-<br />
-
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBERBULL123&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" style="border-radius:15px;">
-</div>
-
 
 ---
 
+## 📊 **TRANSMISSION STATISTICS**
 
-Feel free to explore my repositories and projects or reach out for collaboration opportunities!
+### **GitHub Metrics**
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/CYBERBULL123">
+        <img src="https://github-stats-extended.vercel.app/api?username=CYBERBULL123&count_private=true&show_icons=true&bg_color=0f172a&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/CYBERBULL123">
+        <img src="https://streak-stats.demolab.com?user=CYBERBULL123&background=0f172a&fire=ffeb95&ring=00ffff&sideNums=ffffff&sideLabels=ffffff&dates=00ffff&currStreakNum=ffffff&border=00ffff" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### **Activity Tracker**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYBERBULL123&bg_color=0f172a&color=ffffff&line=00ffff&point=39ff14&area=true&hide_border=true" alt="Contribution Graph" style="border-radius:10px;">
+</p>
+
+### **Development Activity (WakaTime)**
+
+<p align="center">
+  <img src="https://wakatime.com/share/@CyberBull/27f75abe-70e4-4c43-ad51-f9c3702fbeb9.svg" width="100%" alt="Total Time Last 7 Days" />
+  <br>
+  <sub>Development Hours (Last 7 Days)</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@CyberBull/8654cbbb-48a5-495d-81ac-ffebec1bf84d.svg" width="100%" alt="Languages Used" />
+  <br>
+  <sub>Languages Used (Last 7 Days)</sub>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://wakatime.com/share/@CyberBull/e5291fff-f7b1-44b4-944e-d4c7d9bc674a.svg" width="100%" alt="Last Year Coding Time" />
+  <br>
+  <sub>Yearly Overview of Coding Activity</sub>
+</p>
+
+### **System Commendations (Trophies)**
+
+<p align="center">
+  <a href="https://github.com/CYBERBULL123">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.devomb.com/?username=CYBERBULL123&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=radical">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.devomb.com/?username=CYBERBULL123&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=radical">
+      <img alt="GitHub Trophies" src="https://github-trophies.devomb.com/?username=CYBERBULL123&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=radical">
+    </picture>
+  </a>
+</p>
+
+---
+
+## 🌐 **CONNECT & SECURE CHANNEL**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-pandey-896109224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://aadi-web8.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio_Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF" alt="Website" />
+  </a>
+  <a href="https://cyberbull.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.credly.com/users/aditya-pandey.f626aa7f">
+    <img src="https://img.shields.io/badge/Credly_Badges-0F172A?style=for-the-badge&logo=credly&logoColor=orange" alt="Credly" />
+  </a>
+</p>
