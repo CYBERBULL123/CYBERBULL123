@@ -1,7 +1,7 @@
-# ⚡ WELCOME TO MY SECURE NETWORK
+# ⚡ WELCOME TO MY SPACE
 
 <p align="center">
-  <img src="imgs/banner.png" alt="Cyberpunk Security Banner" width="100%" />
+  <img src="imgs/banner.png" alt="Cyberpunk Security Banner" width="30%" />
 </p>
 
 <p align="center">
@@ -24,15 +24,28 @@ Greetings, operative. I'm **Aditya Pandey**, a **Lead AI Architect** and **AI Sy
 - 🤝 **Collaboration**: Open for AI system design consulting, agent orchestrations, and threat-modeling AI workflows.
 - ⚡ **Core Philosophy**: Secure-by-design agentic automation.
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-pandey-896109224/">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://aadi-web8.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio_Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF" alt="Website" />
+  </a>
+  <a href="https://cyberbull.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://www.credly.com/users/aditya-pandey.f626aa7f">
+    <img src="https://img.shields.io/badge/Credly_Badges-0F172A?style=for-the-badge&logo=credly&logoColor=orange" alt="Credly" />
+  </a>
+</p>
+
+-----
 
 ## 🛠️ **TECH STACK & CAPABILITIES**
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
@@ -214,20 +227,3 @@ Greetings, operative. I'm **Aditya Pandey**, a **Lead AI Architect** and **AI Sy
 </p>
 
 ---
-
-## 🌐 **CONNECT & SECURE CHANNEL**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-pandey-896109224/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://aadi-web8.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio_Website-0F172A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF" alt="Website" />
-  </a>
-  <a href="https://cyberbull.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-0F172A?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.credly.com/users/aditya-pandey.f626aa7f">
-    <img src="https://img.shields.io/badge/Credly_Badges-0F172A?style=for-the-badge&logo=credly&logoColor=orange" alt="Credly" />
-  </a>
-</p>
